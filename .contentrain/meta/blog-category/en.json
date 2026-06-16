@@ -9,11 +9,6 @@
     "status": "draft",
     "updated_by": "contentrain-starters"
   },
-  "mcp-test-cat": {
-    "source": "agent",
-    "status": "draft",
-    "updated_by": "contentrain-mcp"
-  },
   "strategy": {
     "source": "import",
     "status": "draft",
