@@ -9,11 +9,6 @@
     "slug": "design",
     "summary": "Editorial takes on product and interface design."
   },
-  "mcp-test-cat": {
-    "name": "MCP Test Cat",
-    "slug": "mcp-test-cat",
-    "summary": "Created via MCP Cloud."
-  },
   "strategy": {
     "name": "Strategy",
     "slug": "strategy",
