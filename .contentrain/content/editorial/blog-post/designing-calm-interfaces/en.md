@@ -10,8 +10,6 @@ slug: designing-calm-interfaces
 title: Designing Calm Interfaces For Product Teams
 ---
 
-
-
 Most product interfaces are loud by accident. They inherit urgency from internal roadmaps instead of the user's context.
 
 Selam ![alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6Zp6DX9a7Yc4W5YhPM45JDRa2J-JlfVETf3If-Hbxw&s=10)
@@ -27,4 +25,3 @@ A premium content system needs space for contrast: bold entries, quiet reading z
 ## ddsad das  ads
 
 ![Product design team working on interface layout](https://studio-staging-5610.up.railway.app/api/cdn/v1/e1825b8a-ed19-49da-836b-cb81870b4651/media/original/045096e2-4c50-45c9-90e2-692d659ef516.webp)
-
