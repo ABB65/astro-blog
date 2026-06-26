@@ -3,7 +3,7 @@ author: kerem-dogan
 categories:
 cover_image: "https://images.unsplash.com/photo-1752659504453-fe55d292efb9?auto=format&fit=crop&fm=jpg&q=80&w=1600"
 excerpt: Why teams move faster when pages are built from intentional sections instead of scattered copy blocks.
-published_at: 2025-01-01
+published_at: 2026-03-25
 reading_time: 5
 slug: shipping-with-a-clear-content-model
 title: Shipping Faster With A Clear Content Model
