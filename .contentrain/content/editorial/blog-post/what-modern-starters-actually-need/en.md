@@ -4,7 +4,7 @@ categories:
   - strategy
 cover_image: "https://images.unsplash.com/photo-1743385779312-73ea241025d8?auto=format&fit=crop&fm=jpg&q=80&w=1600"
 excerpt: Deploy defaults, strong IA, production metadata, and seed content matter more than another component gallery.
-published_at: 2026-01-30
+published_at: 2026-04-05
 reading_time: 6
 slug: what-modern-starters-actually-need
 title: What Modern Starters Actually Need
