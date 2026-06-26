@@ -1,7 +1,6 @@
 ---
 author: kerem-dogan
 categories:
-  - content-ops
 cover_image: "https://images.unsplash.com/photo-1752659504453-fe55d292efb9?auto=format&fit=crop&fm=jpg&q=80&w=1600"
 excerpt: Why teams move faster when pages are built from intentional sections instead of scattered copy blocks.
 published_at: 2025-01-01
@@ -33,4 +32,3 @@ A clear content model answers three questions before you write a single word:
 When your model is defined, shipping feels different. You stop asking "did I forget something?" and start asking "is this content actually good?"
 
 That shift — from structural anxiety to editorial confidence — is what a clear content model gives you.
-
