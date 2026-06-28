@@ -3,12 +3,12 @@
     "locale": "en",
     "model": "blog-post",
     "source": "mcp-studio",
-    "timestamp": "2026-06-28T12:35:05.881Z",
+    "timestamp": "2026-06-28T12:35:58.151Z",
     "tool": "merge"
   },
   "stats": {
     "entries": 16,
-    "lastSync": "2026-06-28T12:35:05.881Z",
+    "lastSync": "2026-06-28T12:35:58.151Z",
     "locales": [
       "en"
     ],
