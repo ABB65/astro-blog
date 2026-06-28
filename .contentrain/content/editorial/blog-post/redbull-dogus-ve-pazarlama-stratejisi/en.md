@@ -1,6 +1,6 @@
 ---
 author: esra-yilmaz
-published_at: 2026-04-01
+published_at: 2026-03-15
 title: "Red Bull'un Doğuşu ve Pazarlama Stratejisi"
 slug: redbull-dogus-ve-pazarlama-stratejisi
 ---
