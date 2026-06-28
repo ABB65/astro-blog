@@ -4,7 +4,7 @@ excerpt: "AI is reshaping how developers build, collaborate, and ship — from c
 author: kerem-dogan
 categories:
   - strategy
-published_at: 2026-03-18
+published_at: 2026-03-20
 reading_time: 6
 slug: developer-ecosystem-in-the-age-of-ai
 cover_image: "https://studio-staging-5610.up.railway.app/api/cdn/v1/e1825b8a-ed19-49da-836b-cb81870b4651/media/original/de6bd235-f4c1-4f68-9917-efecef0f3d5d.webp"
