@@ -1,14 +1,14 @@
 {
   "lastOperation": {
     "locale": "en",
-    "model": "support-tickets",
+    "model": "author",
     "source": "mcp-studio",
-    "timestamp": "2026-06-30T12:56:29.525Z",
+    "timestamp": "2026-06-30T13:24:43.968Z",
     "tool": "merge"
   },
   "stats": {
-    "entries": 16,
-    "lastSync": "2026-06-30T12:56:29.525Z",
+    "entries": 17,
+    "lastSync": "2026-06-30T13:24:43.968Z",
     "locales": [
       "en"
     ],
