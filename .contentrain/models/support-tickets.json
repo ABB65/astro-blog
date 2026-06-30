@@ -1,0 +1,60 @@
+{
+  "id": "support-tickets",
+  "name": "Support Tickets",
+  "kind": "collection",
+  "domain": "system",
+  "i18n": false,
+  "description": "Support and ticket form submissions",
+  "fields": {
+    "email": {
+      "description": "Email address",
+      "required": true,
+      "type": "email"
+    },
+    "message": {
+      "description": "Message body",
+      "required": true,
+      "type": "text"
+    },
+    "name": {
+      "description": "Full name",
+      "required": true,
+      "type": "string"
+    },
+    "priority": {
+      "description": "Priority level",
+      "options": [
+        "low",
+        "medium",
+        "high"
+      ],
+      "required": true,
+      "type": "select"
+    },
+    "status": {
+      "description": "Ticket status",
+      "options": [
+        "open",
+        "in_progress",
+        "closed"
+      ],
+      "required": true,
+      "type": "select"
+    },
+    "subject": {
+      "description": "Ticket subject",
+      "required": true,
+      "type": "string"
+    },
+    "ticket_type": {
+      "description": "Type of ticket",
+      "options": [
+        "support",
+        "bug",
+        "feature"
+      ],
+      "required": true,
+      "type": "select"
+    }
+  }
+}
