@@ -56,5 +56,21 @@
       "required": true,
       "type": "select"
     }
+  },
+  "form": {
+    "autoApprove": false,
+    "captcha": "turnstile",
+    "enabled": true,
+    "exposedFields": [
+      "email",
+      "message",
+      "name",
+      "priority",
+      "status",
+      "subject",
+      "ticket_type"
+    ],
+    "honeypot": false,
+    "public": false
   }
 }
