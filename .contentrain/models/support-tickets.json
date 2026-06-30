@@ -59,8 +59,7 @@
   },
   "form": {
     "autoApprove": false,
-    "captcha": "turnstile",
-    "enabled": false,
+    "enabled": true,
     "exposedFields": [
       "email",
       "message",
