@@ -1,11 +1,1 @@
-{
-  "a1b2c3d4e5f6": {
-    "email": "ahmet@example.com",
-    "message": "Şifremi sıfırlamaya çalışıyorum ama doğrulama e-postası gelmiyor. Yardımcı olur musunuz?",
-    "name": "Ahmet Yılmaz",
-    "priority": "high",
-    "status": "open",
-    "subject": "Giriş yapamıyorum",
-    "ticket_type": "support"
-  }
-}
+{}
