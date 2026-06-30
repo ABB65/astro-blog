@@ -60,7 +60,7 @@
   "form": {
     "autoApprove": false,
     "captcha": "turnstile",
-    "enabled": true,
+    "enabled": false,
     "exposedFields": [
       "email",
       "message",
@@ -71,6 +71,6 @@
       "ticket_type"
     ],
     "honeypot": false,
-    "public": false
+    "public": true
   }
 }
