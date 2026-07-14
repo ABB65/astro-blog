@@ -3,7 +3,7 @@ author: esra-yilmaz
 published_at: 2026-03-15
 title: "Red Bull'un Doğuşu ve Pazarlama Stratejisi"
 slug: redbull-dogus-ve-pazarlama-stratejisi
-cover_image: "https://studio-staging-5610.up.railway.app/api/cdn/v1/e1825b8a-ed19-49da-836b-cb81870b4651/media/original/4b78065b-dcad-45b1-901b-6429495ed504.webp"
+cover_image: "https://studio-staging-5610.up.railway.app/api/cdn/v1/e1825b8a-ed19-49da-836b-cb81870b4651/media/original/8d2895f4-33c4-44c7-b8a0-b449024377cb.webp"
 ---
 
 ## Red Bull Nasıl Doğdu?
