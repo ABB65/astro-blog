@@ -1,0 +1,14 @@
+{
+  "a1b2c3d4e5f6": {
+    "note": "Bu bir örnek içeriktir. Haftalık ekip toplantısında alınan notları içerir.",
+    "title": "Toplantı Notu"
+  },
+  "b2c3d4e5f6a1": {
+    "note": "Yeni özellik önerileri ve geliştirme fikirleri için örnek not.",
+    "title": "Fikir Listesi"
+  },
+  "c3d4e5f6a1b2": {
+    "note": "Önemli bir görevi hatırlamak için örnek bir not girişi.",
+    "title": "Hatırlatma"
+  }
+}
