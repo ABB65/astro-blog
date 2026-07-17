@@ -1,0 +1,17 @@
+{
+  "id": "sample-notes",
+  "name": "Sample Notes",
+  "kind": "collection",
+  "domain": "system",
+  "i18n": false,
+  "description": "Örnek amaçlı basit bir model",
+  "fields": {
+    "note": {
+      "type": "text"
+    },
+    "title": {
+      "required": true,
+      "type": "string"
+    }
+  }
+}
