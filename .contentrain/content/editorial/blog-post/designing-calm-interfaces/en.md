@@ -2,7 +2,7 @@
 author: esra-yilmaz
 categories:
   - design
-cover_image: "https://images.unsplash.com/photo-1743385779312-73ea241025d8?auto=format&fit=crop&fm=jpg&q=80&w=1600"
+cover_image: "https://studio-staging-5610.up.railway.app/api/cdn/v1/e1825b8a-ed19-49da-836b-cb81870b4651/media/original/d64ca6b9-9dd3-473a-9a77-839277742f6f.webp"
 excerpt: How rhythm, restraint, and content hierarchy make software feel more trustworthy.
 published_at: 2026-03-12
 reading_time: 7
